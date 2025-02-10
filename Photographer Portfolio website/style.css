@@ -631,7 +631,7 @@ header{
     .nav__toggle-btn{
         display: inline-block;
         font-size: 2rem;
-        background: rgb(248, 247, 247);
+        background: transparent;
         cursor: pointer;
         color: var(--color-white);
         width: 2rem;
